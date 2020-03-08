@@ -12,6 +12,9 @@
   
   
     <h3>Challenge: 1</h3>
+    <p><strong>Given an array of integers, find the sum of its elements.
+
+For example, if the array <code> ar = [1,2,3]</code> ,<code> 1 + 2 + 3 = 6 </code> , so return <code> 6</code>.</p>
   <p>
   BODY
   
