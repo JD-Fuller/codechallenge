@@ -11,7 +11,7 @@
   <p>SOLUTION</p>
   
   
-    <h3>TITLE</h3>
+    <h3>Challenge: 1</h3>
   <p>
   BODY
   
