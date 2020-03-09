@@ -58,7 +58,9 @@ For example, if the array <code> ar = [1,2,3]</code> ,<code> 1 + 2 + 3 = 6 </cod
   </p>
   <h4></h4>
   <p>SOLUTION</p>
-    <h3>TITLE</h3>
+
+
+    <h3>TITLE</h3>  <h3>Challenge: 5</h3>
   <p>
   BODY
   
