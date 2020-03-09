@@ -24,6 +24,9 @@ For example, if the array <code> ar = [1,2,3]</code> ,<code> 1 + 2 + 3 = 6 </cod
   
   
     <h3>TITLE</h3>
+
+ <h3>Challenge: 2</h3>
+
   <p>
   BODY
   
