@@ -114,9 +114,18 @@ const anagram = (strA, strB) => {
   <p>SOLUTION</p>
 
 
-    <h3>TITLE</h3>  <h3>Challenge: 4</h3>
+    <h3>Find the Vowels</h3>  <h3>Challenge: 4</h3>
   <p>
-  BODY
+  const findVowels = str => {
+  let count = 0
+  const vowels = ['a', 'e', 'i', 'o', 'u']
+  for(let char of str.toLowerCase()) {
+    if(vowels.includes(char)) {
+      count++
+    }
+  }
+  return count
+}
   
   </p>
   <h4></h4>
