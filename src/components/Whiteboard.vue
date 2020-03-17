@@ -37,12 +37,28 @@ For example, if the array <code> ar = [1,2,3]</code> ,<code> 1 + 2 + 3 = 6 </cod
   return str === str.split('').reverse().join('')
 }
   </p>
+  
+  
   <h4></h4>
   <p>SOLUTION</p>
-    <h3>TITLE</h3>
+    <h3>FizzBuzz</h3>
   <p>
-  BODY
-  
+  const fizzBuzz = num => {
+  for(let i = 1; i <= num; i++) {
+    // check if the number is a multiple of 3 and 5
+    if(i % 3 === 0 && i % 5 === 0) {
+      console.log('fizzbuzz')
+    } // check if the number is a multiple of 3
+      else if(i % 3 === 0) {
+      console.log('fizz')
+    } // check if the number is a multiple of 5
+      else if(i % 5 === 0) {
+      console.log('buzz')
+    } else {
+      console.log(i)
+    }
+  }
+}
   </p>
   <h4></h4>
   <p>SOLUTION</p>
