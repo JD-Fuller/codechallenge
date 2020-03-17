@@ -25,11 +25,17 @@ For example, if the array <code> ar = [1,2,3]</code> ,<code> 1 + 2 + 3 = 6 </cod
   
     <h3>TITLE</h3>
 
- <h3>Challenge: 2</h3>
+ <h3>Challenge: 2 Palindrome</h3>
 
   <p>
-  BODY
   
+  const palindrome = str => {
+  // turn the string to lowercase
+  str = str.toLowerCase()
+  // reverse input string and return the result of the
+  // comparisong
+  return str === str.split('').reverse().join('')
+}
   </p>
   <h4></h4>
   <p>SOLUTION</p>
